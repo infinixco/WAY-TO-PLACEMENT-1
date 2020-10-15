@@ -8,6 +8,7 @@ class cell:
         self.f = math.inf
         self.g = math.inf
         self.h = math.inf
+        
 '''**********************************
 Function name   :   isValid
 Functionality   :   checks whether the cell with given coordinates is within the range of maze and is unblocked
